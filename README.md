@@ -11,19 +11,19 @@ A small voxel sandbox inspired by *The Elder Scrolls*.
 
 ## Getting Started
 
-1. Install dependencies:
+1. Install dependencies (Yarn is the default package manager for CI):
    ```bash
-   npm install
+   yarn install
    ```
 2. Start the development server:
    ```bash
-   npm run dev
+   yarn dev
    ```
 3. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Scripts
 
-- `npm run dev` – start Vite dev server.
-- `npm run build` – build for production.
-- `npm run preview` – preview the production build.
-- `npm test` – run placeholder tests.
+- `yarn dev` – start Vite dev server.
+- `yarn build` – build for production.
+- `yarn preview` – preview the production build.
+- `yarn test` – run placeholder tests.
